@@ -26,3 +26,25 @@ APS_lab6/alg_1.txt
 APS_lab6/db/
 
 APS_lab6/simulation/modelsim/
+
+*.db_info
+
+*.ammdb
+
+*.cdb
+
+APS_lab6/incremental_db/compiled_partitions/
+
+APS_lab6/output_files/
+
+APS_lab7/db/
+
+APS_lab7/incremental_db/compiled_partitions/
+
+APS_lab6/simulation/
+
+APS_lab6/incremental_db/
+
+APS_lab7/output_files/
+
+APS_lab7/simulation/modelsim/
