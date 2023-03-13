@@ -27,7 +27,7 @@ logic                    comp;
 
 
 // instruction fetching
-logic        rs_1_sel;
+logic [1:0]  rs_1_sel;
 logic [2:0]  rs_2_sel;
 logic [4:0]  alu_op;
 logic        mem_req;
